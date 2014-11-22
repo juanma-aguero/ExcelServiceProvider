@@ -10,9 +10,9 @@
         }
     ],
     "require": {
-        "silex/silex": "1.0.*@dev",
-        "nercury/symfony2-stream-response": "dev-master",
-        "codeplex/phpexcel": "1.7.8"
+        "silex/silex": "~1.1",
+        "nercury/symfony2-stream-response": "1.0",
+        "phpoffice/phpexcel": "1.8.0"
     },
     "autoload": {
         "psr-0": { "Jaza": "src" }
